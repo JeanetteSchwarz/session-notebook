@@ -11,3 +11,8 @@
 - Delete the new branch on GitHub and locally
 
 ## 💡 This workflow is very fundamental to web developers in all of the industry. We will continue to work in this way, especially in the capstone project. So try to get comfortable with each step, it will become second nature very quickly.
+
+### Problems deleting the branch
+
+Message: Your configuration specifies to merge with the ref 'refs/heads/notes/github-and-markdown'
+from the remote, but no such ref was fetched.
