@@ -9,3 +9,5 @@
 - Merge the pull request into main
 - Don't forget to git pull inside the main branch on your local machine
 - Delete the new branch on GitHub and locally
+
+## 💡 This workflow is very fundamental to web developers in all of the industry. We will continue to work in this way, especially in the capstone project. So try to get comfortable with each step, it will become second nature very quickly.
